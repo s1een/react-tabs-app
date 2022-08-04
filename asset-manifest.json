@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tabs-app/static/css/main.cf38550b.css",
+    "main.js": "/react-tabs-app/static/js/main.4a16a8b6.js",
+    "index.html": "/react-tabs-app/index.html",
+    "main.cf38550b.css.map": "/react-tabs-app/static/css/main.cf38550b.css.map",
+    "main.4a16a8b6.js.map": "/react-tabs-app/static/js/main.4a16a8b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf38550b.css",
+    "static/js/main.4a16a8b6.js"
+  ]
+}
